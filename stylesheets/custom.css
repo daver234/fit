@@ -1,7 +1,7 @@
 /* Access Wallet Screen */
 .walletAccess-page,
 .walletAccess-title {
-    background: #E0E0E0;
+    background: #00AEEF;
 }
 
 .walletAccess-title {
@@ -48,9 +48,9 @@
 }
 
 a.pin-pad-key:active {
-    border-color: #E0E0E0;
+    border-color: #00AEEF;
     background-color:#fff;
-    color: #E0E0E0;
+    color: #00AEEF;
 }
 
 .pin-pad-keys {
