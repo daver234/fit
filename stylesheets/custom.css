@@ -12,7 +12,7 @@
 }
 
 .walletAccess-page {
-    min-height: calc(100vh - 150px);
+    height: 100vh;
 }
 
 .walletAccess-errorMsg {
