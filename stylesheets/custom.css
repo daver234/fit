@@ -3,8 +3,8 @@
     background: #003C71;
 }
 .walletAccess-title {
-    background: #fff;
-    color:#003C71;
+    background: #003C71;
+    border:solid 1px #EEE;
 }
 
 .walletAccess-title {
@@ -12,6 +12,7 @@
     padding-top:4vh;
     margin-bottom: 1vh;
     border:0px;
+     border:solid 1px #50B4AC;
 }
 
 .walletAccess-page {
