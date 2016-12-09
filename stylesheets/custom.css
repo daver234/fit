@@ -4,7 +4,7 @@
 }
 .walletAccess-title {
     background: #003C71;
-    border:solid 1px #EEE;
+    border:solid 4px red;
 }
 
 .walletAccess-title {
@@ -12,7 +12,7 @@
     padding-top:4vh;
     margin-bottom: 1vh;
     border:0px;
-     border:solid 1px red;
+     border:solid 4px red;
 }
 
 .walletAccess-page {
@@ -80,6 +80,7 @@ a.pin-pad-key {
 /* Secure Wallet Screen */
 .createWallet-page {
     height: 100vh;
+    border:solid 4px red;
 }
 
 .createWallet-page,
