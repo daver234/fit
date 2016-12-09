@@ -12,7 +12,7 @@
     padding-top:4vh;
     margin-bottom: 1vh;
     border:0px;
-     border:solid 4px red;
+    /* border:solid 4px red;*/
 }
 
 .walletAccess-page {
@@ -80,7 +80,7 @@ a.pin-pad-key {
 /* Secure Wallet Screen */
 .createWallet-page {
     height: 100vh;
-    border:solid 4px red;
+    /* border:solid 4px red;*/
 }
 
 .createWallet-page,
