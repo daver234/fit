@@ -80,7 +80,8 @@ a.pin-pad-key {
 
 .createWallet-page,
 .createWallet-title {
-    background: #18264b;
+    background: #fff;
+    color:red;
 }
 
 .createWallet-content,
