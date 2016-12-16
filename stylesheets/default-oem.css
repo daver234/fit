@@ -75,18 +75,19 @@ a.pin-pad-key {
 
 /* Secure Wallet Screen */
 .createWallet-page {
-    height: 100vh;
+    height: 80vh;
 }
 
 .createWallet-page,
 .createWallet-title {
     background: #fff;
-    color:red;
+    color:red !important;
 }
 
 .createWallet-content,
 .createWallet-title {
-    color: #fff;
+   /*color: #fff;*/
+    color:red;
 }
 
 .createWallet-desc {
